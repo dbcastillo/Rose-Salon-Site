@@ -12,6 +12,14 @@ class App extends Component {
           <a href="#about">Contacts</a>
           <a href="#about">Portfolio</a>
         </div>
+        <h4 className='center' id='RoseSomething'>Rose Pudzis</h4>
+        <a
+          href="https://www.yelp.com/biz_photos/rowi-salon-chicago?select=zKP3-_9WBefPePMkKRtzgw"
+          target="_blank"
+          className="waves-effect waves-light btn white"
+          id="book-button">
+          Click here to book
+        </a>
       </div>
   );
   }
